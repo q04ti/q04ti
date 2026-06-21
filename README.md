@@ -20,7 +20,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/Q04TI">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Q04TI+IS+HERE;FULL+STACK+DEVELOPER;CYBER+WIZARD;BUG+CRUSHER;CREATOR+OF+MAGIC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Q04TI+IS+HERE;VIBE+CODER;CTRL%2BC+CTRL%2BV+SPECIALIST;AI+WHISPERER;CHAOS+ENGINEER+(UNINTENTIONAL)" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,7 +44,7 @@
 
 <p align="center">
   <code>$ whoami</code><br/>
-  💻 Full Stack Developer &nbsp;|&nbsp; 🛡️ Cyber Wizard &nbsp;|&nbsp; 🐛 Bug Crusher &nbsp;|&nbsp; ☕ Coffee-Powered Code Machine
+  🌊 Vibe Coder &nbsp;|&nbsp; 🤖 AI Whisperer &nbsp;|&nbsp; 📋 Ctrl+C Ctrl+V Specialist &nbsp;|&nbsp; ☕ Coffee-Powered Code Machine
 </p>
 
 <!-- ============================================================ -->
@@ -175,12 +175,13 @@ flowchart LR
 | 🔹 Stat | 🔹 Value |
 |---|---|
 | 🕒 Bugs created today | `∞` |
-| 🐞 Bugs fixed today | `∞ - 1` |
+| 🐞 Bugs fixed today | `∞ - 1 (thanks ChatGPT)` |
 | ☕ Coffee consumed | `Dangerously high` |
 | 🌙 Favorite debugging hour | `3:00 AM` |
-| 🧠 Brain.exe status | `Stack Overflow tab open` |
-| 🎮 Side quest | `Yelling at the compiler` |
+| 🧠 Brain.exe status | `"it works on my machine"` |
+| 🎮 Side quest | `Yelling at the AI to "just fix it"` |
 | 🔥 Power move | `git push --force (sometimes)` |
+| 📚 Stack Overflow visits | `Don't ask` |
 
 </div>
 
@@ -253,7 +254,7 @@ this section with live coding stats.
 </p>
 
 <p align="center">
-  <i>"There are 10 types of developers: those who understand binary, and those who don't."</i>
+  <i>"I don't always know how my code works, but when I do, I have no idea why."</i>
 </p>
 
 </div>

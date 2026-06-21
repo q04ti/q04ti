@@ -175,7 +175,7 @@ flowchart LR
 | 🔹 Stat | 🔹 Value |
 |---|---|
 | 🕒 Bugs created today | `∞` |
-| 🐞 Bugs fixed today | `∞ - 1 (thanks ChatGPT)` |
+| 🐞 Bugs fixed today | `∞ - 1 (thanks deepseek)` |
 | ☕ Coffee consumed | `Dangerously high` |
 | 🌙 Favorite debugging hour | `3:00 AM` |
 | 🧠 Brain.exe status | `"it works on my machine"` |
@@ -185,16 +185,6 @@ flowchart LR
 
 </div>
 
-<!-- ============================================================ -->
-<!-- SPOTIFY NOW PLAYING -->
-<!-- ============================================================ -->
-
-<h2 align="center">🎧 NOW PLAYING</h2>
-
-<!-- Replace with your own Spotify integration via novatorem / spotify-github-profile -->
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing"/>
-</p>
 
 <!-- ============================================================ -->
 <!-- WAKATIME WEEKLY STATS -->

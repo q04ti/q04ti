@@ -1,290 +1,263 @@
-```markdown
-<!--
-██╗  ██╗ █████╗  ██████╗ ████████╗██╗
-██║  ██║██╔══██╗██╔═══██╗╚══██╔══╝██║
-███████║███████║██║   ██║   ██║   ██║
-██╔══██║██╔══██║██║   ██║   ██║   ██║
-██║  ██║██║  ██║╚██████╔╝   ██║   ██║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝
--->
+<!-- ============================================================ -->
+<!--   Q04TI // GITHUB PROFILE README                              -->
+<!--   THEME: CYBERPUNK HACKER DASHBOARD                           -->
+<!--   PRIMARY: #00ff88  |  SECONDARY: #ff00ff  |  BG: #0d117      -->
+<!--   Edit the WakaTime/Spotify blocks with your own usernames!   -->
+<!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Q04TI+IS+HERE;FULL+STACK+DEVELOPER;CYBER+WIZARD;BUG+CRUSHER;CREATOR+OF+MAGIC" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Q04TI&style=for-the-badge&color=0a0a0a&label=👁️+PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Q04TI?style=for-the-badge&color=0a0a0a&label=🤝+FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Q04TI?style=for-the-badge&color=0a0a0a&label=⭐+STARS" alt="Stars" />
-</div>
+<!-- ASCII ART BLOCK LETTERS -->
 
----
-
-## 🌟 **WHO AM I?**
-
-```ascii
-┌─────────────────────────────────────────────────────┐
-│  🚀 Developer by day  │  🌙 Hacker by night       │
-│  💻 Code is my canvas │  🎨 Art is my code        │
-│  ☕ Powered by coffee  │  🧠 Driven by curiosity   │
-└─────────────────────────────────────────────────────┘
+```
+ ██████╗  ██████╗ ██╗  ██╗████████╗██╗
+██╔═══██╗██╔═████╗██║  ██║╚══██╔══╝██║
+██║   ██║██║██╔██║███████║   ██║   ██║
+██║▄▄ ██║████╔╝██║╚════██║   ██║   ██║
+╚██████╔╝╚██████╔╝     ██║   ██║   ██║
+ ╚══▀▀═╝  ╚═════╝      ╚═╝   ╚═╝   ╚═╝
 ```
 
-> **"I don't write bugs, I write features that surprise everyone... including myself"** 😈
+<!-- TYPING SVG -->
+<a href="https://github.com/Q04TI">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Q04TI+IS+HERE;FULL+STACK+DEVELOPER;CYBER+WIZARD;BUG+CRUSHER;CREATOR+OF+MAGIC" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🎯 **LIVE STATS** *(Automatically Updated)*
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Q04TI&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=00ff88&icon_color=00ff88" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Q04TI&theme=radical&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakNum=00ff88" alt="GitHub Streak" /></td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Q04TI&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00ff88&line=00ff88&point=00ff88" alt="Contribution Graph" width="90%" />
-</div>
-
----
-
-## ⚡ **TECH STACK THAT SLAPS**
-
-<div align="center">
-  
-### **💪 LANGUAGES I COMMAND**
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0d1117)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=0d1117)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white&labelColor=0d1117)
-
-### **🛠️ TOOLS I MASTER**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0d1117)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)
+<!-- BADGES: VIEWS / FOLLOWERS / STARS -->
+<img src="https://komarev.com/ghpvc/?username=Q04TI&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/Q04TI?label=FOLLOWERS&style=for-the-badge&color=ff00ff&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/Q04TI?label=TOTAL%20STARS&style=for-the-badge&color=00ff88&logo=github" alt="stars"/>
 
 </div>
 
----
+<!-- ============================================================ -->
+<!-- DIVIDER -->
+<!-- ============================================================ -->
 
-## 📈 **LANGUAGE DISTRIBUTION**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/grow.gif" width="100%">
+</p>
+
+<h3 align="center">⚡ SYSTEM ONLINE // ACCESSING DEVELOPER MAINFRAME ⚡</h3>
+
+<p align="center">
+  <code>$ whoami</code><br/>
+  💻 Full Stack Developer &nbsp;|&nbsp; 🛡️ Cyber Wizard &nbsp;|&nbsp; 🐛 Bug Crusher &nbsp;|&nbsp; ☕ Coffee-Powered Code Machine
+</p>
+
+<!-- ============================================================ -->
+<!-- STATS SECTION -->
+<!-- ============================================================ -->
+
+<h2 align="center">📊 LIVE STATS FEED</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Q04TI&show_icons=true&theme=react&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_color=00ff88&hide_border=false&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Q04TI&theme=react&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff00ff&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=c9d1d9&border=00ff88&hide_border=false" width="49%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Q04TI&theme=react-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ff00ff&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Q04TI&layout=pie&theme=react&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_color=00ff88&hide_border=false" width="55%" alt="Top Languages Pie Chart"/>
+</p>
+
+<!-- ============================================================ -->
+<!-- DIVIDER -->
+<!-- ============================================================ -->
+
+<p align="center">⠀⠀⠀⠀⠀⠀⠀<b>// ARSENAL LOADED //</b>⠀⠀⠀⠀⠀⠀⠀</p>
+
+<!-- ============================================================ -->
+<!-- TECH STACK -->
+<!-- ============================================================ -->
+
+<h2 align="center">🧠 I COMMAND</h2>
+
+<p align="center"><b>~ Languages ~</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00ff88&labelColor=0d1117" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00ff88&labelColor=0d1117" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00ff88&labelColor=0d1117" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=00ff88&labelColor=0d1117" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=00ff88&labelColor=0d1117" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00ff88&labelColor=0d1117" alt="Rust"/>
+</p>
+
+<p align="center"><b>~ Tools & Tech ~</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=ff00ff&labelColor=0d1117" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ff00ff&labelColor=0d1117" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ff00ff&labelColor=0d1117" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ff00ff&labelColor=0d1117" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=ff00ff&labelColor=0d1117" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ff00ff&labelColor=0d1117" alt="Git"/>
+</p>
+
+<!-- ============================================================ -->
+<!-- PROJECTS -->
+<!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Q04TI&layout=pie&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88" alt="Top Languages" width="50%" />
-</div>
 
----
-
-## 🏆 **ACHIEVEMENTS & TROPHIES**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Q04TI&theme=radical&no-frame=true&row=2&column=4&bg_color=0d1117" alt="Trophies" />
-</div>
-
----
-
-## 💫 **WHAT I'M BUILDING NOW**
-
-<div align="center">
-  
 ```
-██████╗ ██████╗  ██████╗ ██╗███████╗ ██████╗████████╗███████╗
-██╔══██╗██╔══██╗██╔═══██╗██║██╔════╝██╔════╝╚══██╔══╝██╔════╝
-██████╔╝██████╔╝██║   ██║██║███████╗██║        ██║   ███████╗
-██╔═══╝ ██╔══██╗██║   ██║██║╚════██║██║        ██║   ╚════██║
-██║     ██║  ██║╚██████╔╝██║███████║╚██████╗   ██║   ███████║
-╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚══════╝ ╚═════╝   ╚═╝   ╚══════╝
+██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗███████╗
+██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝██╔════╝
+██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║   ███████╗
+██╔══██╗██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║   ╚════██║
+██║  ██║██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║   ███████║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝   ╚══════╝
 ```
 
-### 🔥 **CURRENT PROJECTS:**
-- 🎵 **Next-Gen Music Player** - *Because Spotify is mid*
-- 🤖 **AI Discord Bot** - *Skynet but friendlier*
-- 🌐 **Portfolio V4** - *This time it's actually good*
-- 🛠️ **Dev Tools Suite** - *Making life easier for everyone*
-
 </div>
 
----
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>🎵 Next-Gen Music Player</h3>
+      <p>Spotify but better. Built for speed, built for vibes.</p>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI Discord Bot</h3>
+      <p>Skynet's friendly cousin. Smart, helpful, mildly sarcastic.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Portfolio V4</h3>
+      <p>Actually good this time. No cap.</p>
+    </td>
+    <td width="50%">
+      <h3>🛠️ Dev Tools Suite</h3>
+      <p>Making devs' lives easier, one script at a time.</p>
+    </td>
+  </tr>
+</table>
 
-## 🎮 **GITHUB CONTRIBUTION GRID 3D**
+<!-- ============================================================ -->
+<!-- DIVIDER -->
+<!-- ============================================================ -->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Q04TI/Q04TI/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution" width="90%" />
-</div>
+<h2 align="center">🔁 THE DEV LIFECYCLE</h2>
 
----
-
-## 🔥 **MY DAILY COMMITMENT**
-
-<div align="center">
-  
 ```mermaid
-graph LR
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryTextColor': '#00ff88', 'primaryBorderColor': '#00ff88', 'lineColor': '#ff00ff', 'secondaryColor': '#0d1117', 'tertiaryColor': '#0d1117'}}}%%
+flowchart LR
     A[💡 Idea] --> B[⌨️ Code]
     B --> C[🐛 Bug]
-    C --> D[😤 Debug]
-    D --> E[🎉 Success]
+    C --> D[🔍 Debug]
+    D --> E[✅ Success]
     E --> F[☕ Coffee]
     F --> A
 ```
-  
-</div>
 
----
+<!-- ============================================================ -->
+<!-- JOKE OF THE DAY -->
+<!-- ============================================================ -->
 
-## 🎯 **RANDOM DEV JOKE FOR YOU**
+<h2 align="center">😂 RANDOM DEV JOKE</h2>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&border=true" alt="Random Dev Joke"/>
+</p>
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&bgColor=0d1117" alt="Jokes" />
-</div>
+<!-- ============================================================ -->
+<!-- FUN FACTS TABLE -->
+<!-- ============================================================ -->
 
----
-
-## 📫 **CONNECT WITH ME**
-
-<div align="center">
-  
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.gg/your-invite)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/yourprofile)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://youtube.com/yourchannel)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://yourportfolio.com)
-
-</div>
-
----
-
-## 💀 **FUN FACTS ABOUT ME**
+<h2 align="center">🧬 FUN FACTS // DECRYPTED</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>⌨️</td>
-      <td>I type at 120 WPM but still forget semicolons</td>
-    </tr>
-    <tr>
-      <td>☕</td>
-      <td>I survive on 5 cups of coffee and pure spite</td>
-    </tr>
-    <tr>
-      <td>🎯</td>
-      <td>95% of my bugs are found at 3 AM</td>
-    </tr>
-    <tr>
-      <td>🚀</td>
-      <td>I have 50+ unfinished projects (it's a collection)</td>
-    </tr>
-  </table>
+
+| 🔹 Stat | 🔹 Value |
+|---|---|
+| 🕒 Bugs created today | `∞` |
+| 🐞 Bugs fixed today | `∞ - 1` |
+| ☕ Coffee consumed | `Dangerously high` |
+| 🌙 Favorite debugging hour | `3:00 AM` |
+| 🧠 Brain.exe status | `Stack Overflow tab open` |
+| 🎮 Side quest | `Yelling at the compiler` |
+| 🔥 Power move | `git push --force (sometimes)` |
+
 </div>
 
----
+<!-- ============================================================ -->
+<!-- SPOTIFY NOW PLAYING -->
+<!-- ============================================================ -->
 
-## 📊 **WEEKLY CODING STATS**
+<h2 align="center">🎧 NOW PLAYING</h2>
 
-<div align="center">
-  
+<!-- Replace with your own Spotify integration via novatorem / spotify-github-profile -->
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing"/>
+</p>
+
+<!-- ============================================================ -->
+<!-- WAKATIME WEEKLY STATS -->
+<!-- ============================================================ -->
+
+<h2 align="center">⏱️ WEEKLY CODING ACTIVITY</h2>
+
 <!--START_SECTION:waka-->
 ```text
-C          12 hrs 30 mins  █████████████████░░░░░░░░   68.2%
-C++        5 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   24.3%
-Python     2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   10.5%
-JavaScript 1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+From: WakaTime Weekly Report
+Connect your WakaTime account and run the
+"waka-readme" GitHub Action to auto-populate
+this section with live coding stats.
 ```
 <!--END_SECTION:waka-->
 
+<!-- ============================================================ -->
+<!-- 3D CONTRIBUTION GRID -->
+<!-- ============================================================ -->
+
+<h2 align="center">🧊 3D CONTRIBUTION GRID</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Q04TI/Q04TI/output/github-contribution-grid-snake-dark.svg" alt="3D Contribution Grid"/>
+</p>
+
+<!-- ============================================================ -->
+<!-- TROPHIES -->
+<!-- ============================================================ -->
+
+<h2 align="center">🏆 ACHIEVEMENT TROPHIES</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Q04TI&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
+</p>
+
+<!-- ============================================================ -->
+<!-- LEAVE A STAR -->
+<!-- ============================================================ -->
+
+<h2 align="center">⭐ LEAVE A STAR</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/StarGIF.gif" width="40%" alt="leave a star"/>
+</p>
+
+<p align="center">
+  If you vibe with my code, drop a ⭐ — it powers my neon servers.
+</p>
+
+<!-- ============================================================ -->
+<!-- FOOTER -->
+<!-- ============================================================ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,16,16&height=200&section=footer&text=Q04TI&fontSize=60&fontColor=00ff88&animation=fadeIn&fontAlignY=70" alt="footer wave"/>
+</p>
+
+<p align="center">
+  <i>"There are 10 types of developers: those who understand binary, and those who don't."</i>
+</p>
+
 </div>
 
----
-
-## 🎵 **NOW PLAYING**
-
-<div align="center">
-  
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00ff88)](https://open.spotify.com/user/yourusername)
-
-</div>
-
----
-
-<div align="center">
-  
-### **🔥 TOTAL CONTRIBUTIONS: BURNING THE MIDNIGHT OIL 🔥**
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Q04TI&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00ff88&line=00ff88)
-
----
-
-### ⭐ **IF YOU MADE IT THIS FAR...**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" />
-  <h3>YOU'RE AWESOME! LEAVE A STAR ⭐</h3>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50" width="100%" />
-</div>
-
-<!-- 
-  This README is automatically updated every 24 hours
-  Built with ❤️ by Q04TI
-  If you're reading this, you're probably a cool person 😎
--->
-```
-
-## 🚀 **HOW TO MAKE THIS YOUR README:**
-
-1. **Create your special repository:**
-   - Go to GitHub → New Repository
-   - Name it: `Q04TI` (exactly your username)
-   - Make it public ✅
-   - Add README ✅
-
-2. **Copy the content above** into your `README.md`
-
-3. **Customize the links:**
-   - Replace `yourhandle`, `yourprofile`, `yourchannel`, etc.
-   - Update Discord invite, Twitter, LinkedIn, YouTube links
-   - Change Spotify username
-
-4. **Add these optional features:**
-   - **WakaTime Stats:** Sign up at wakatime.com, add your API key
-   - **Spotify Now Playing:** Create a Spotify Developer app
-   - **3D Contribution Grid:** Enable GitHub Actions for automatic updates
-
-5. **Enable GitHub Actions** for automatic updates:
-   - Create `.github/workflows/update-stats.yml`
-   - Add workflows for WakaTime, Spotify, etc.
-
-## 🔧 **EXTRAS TO MAKE IT EVEN SICKER:**
-
-```yaml
-# .github/workflows/update-readme.yml
-name: Update README
-
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: anuraghazra/github-readme-stats@master
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      - uses: teoxoy/profile-readme-stats@v2
-```
+<!-- ============================================================ -->
+<!-- END OF FILE — STAY EPIC, Q04TI -->
+<!-- ============================================================ -->

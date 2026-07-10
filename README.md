@@ -44,7 +44,7 @@
 
 <p align="center">
   <code>$ whoami</code><br/>
-  🌊 Vibe Coder &nbsp;|&nbsp; 🤖 AI Whisperer &nbsp;|&nbsp; 📋 Ctrl+C Ctrl+V Specialist &nbsp;|&nbsp; ☕ Coffee-Powered Code Machine
+  🌊 Vibe Coder &nbsp;|&nbsp; 🤖 AI Whisperer &nbsp;|&nbsp; 📋 Ctrl+C Ctrl+V Specialist &nbsp;|&nbsp; ☕ Coffee-Powered 
 </p>
 
 <!-- ============================================================ -->
@@ -129,7 +129,7 @@
   <tr>
     <td width="50%">
       <h3>🌐 Portfolio V4</h3>
-      <p>Actually good this time. No cap.</p>
+      <p>Actually good this time.</p>
     </td>
     <td width="50%">
       <h3>🛠️ Dev Tools Suite</h3>

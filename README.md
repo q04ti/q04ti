@@ -1,10 +1,3 @@
-<!-- ============================================================ -->
-<!--   Q04TI // GITHUB PROFILE README                              -->
-<!--   THEME: CYBERPUNK HACKER DASHBOARD                           -->
-<!--   PRIMARY: #00ff88  |  SECONDARY: #ff00ff  |  BG: #0d117      -->
-<!--   Edit the WakaTime/Spotify blocks with your own usernames!   -->
-<!-- ============================================================ -->
-
 <div align="center">
 
 <!-- ASCII ART BLOCK LETTERS -->
@@ -20,7 +13,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/Q04TI">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Q04TI+IS+HERE;VIBE+CODER;CTRL%2BC+CTRL%2BV+SPECIALIST;AI+WHISPERER;CHAOS+ENGINEER+(UNINTENTIONAL)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Q04TI+IS+HERE" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -40,11 +33,11 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/grow.gif" width="100%">
 </p>
 
-<h3 align="center">⚡ SYSTEM ONLINE // ACCESSING DEVELOPER MAINFRAME ⚡</h3>
+<h3 align="center"> ACCESSING DEVELOPER MAINFRAME </h3>
 
 <p align="center">
   <code>$ whoami</code><br/>
-  🌊 Vibe Coder &nbsp;|&nbsp; 🤖 AI Whisperer &nbsp;|&nbsp; 📋 Ctrl+C Ctrl+V Specialist &nbsp;|&nbsp; ☕ Coffee-Powered 
+  Vibe Coder &nbsp;|&nbsp;  AI Whisperer &nbsp;|&nbsp;  i use Ctrl+C Ctrl+V
 </p>
 
 <!-- ============================================================ -->
@@ -159,7 +152,7 @@ flowchart LR
 <!-- JOKE OF THE DAY -->
 <!-- ============================================================ -->
 
-<h2 align="center">😂 RANDOM DEV JOKE</h2>
+<h2 align="center">😂 jotd </h2>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&border=true" alt="Random Dev Joke"/>
 </p>
@@ -168,15 +161,15 @@ flowchart LR
 <!-- FUN FACTS TABLE -->
 <!-- ============================================================ -->
 
-<h2 align="center">🧬 FUN FACTS // DECRYPTED</h2>
+<h2 align="center">🧬 DECRYPTED</h2>
 
 <div align="center">
 
 | 🔹 Stat | 🔹 Value |
 |---|---|
 | 🕒 Bugs created today | `∞` |
-| 🐞 Bugs fixed today | `∞ - 1 (thanks deepseek)` |
-| ☕ Coffee consumed | `Dangerously high` |
+| 🐞 Bugs fixed today | `0 - 1 (thanks deepseek)` |
+| ☕ Coffee consumed | `ion knw` |
 | 🌙 Favorite debugging hour | `3:00 AM` |
 | 🧠 Brain.exe status | `"it works on my machine"` |
 | 🎮 Side quest | `Yelling at the AI to "just fix it"` |
@@ -186,40 +179,6 @@ flowchart LR
 </div>
 
 
-<!-- ============================================================ -->
-<!-- WAKATIME WEEKLY STATS -->
-<!-- ============================================================ -->
-
-<h2 align="center">⏱️ WEEKLY CODING ACTIVITY</h2>
-
-<!--START_SECTION:waka-->
-```text
-From: WakaTime Weekly Report
-Connect your WakaTime account and run the
-"waka-readme" GitHub Action to auto-populate
-this section with live coding stats.
-```
-<!--END_SECTION:waka-->
-
-<!-- ============================================================ -->
-<!-- 3D CONTRIBUTION GRID -->
-<!-- ============================================================ -->
-
-<h2 align="center">🧊 3D CONTRIBUTION GRID</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Q04TI/Q04TI/output/github-contribution-grid-snake-dark.svg" alt="3D Contribution Grid"/>
-</p>
-
-<!-- ============================================================ -->
-<!-- TROPHIES -->
-<!-- ============================================================ -->
-
-<h2 align="center">🏆 ACHIEVEMENT TROPHIES</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Q04TI&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
-</p>
 
 <!-- ============================================================ -->
 <!-- LEAVE A STAR -->

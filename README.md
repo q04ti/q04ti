@@ -44,7 +44,7 @@
 <!-- STATS SECTION -->
 <!-- ============================================================ -->
 
-<h2 align="center">📊 LIVE STATS FEED</h2>
+<h2 align="center"> LIVE STATS FEED</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Q04TI&show_icons=true&theme=react&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_color=00ff88&hide_border=false&count_private=true" width="49%" alt="GitHub Stats"/>
@@ -69,7 +69,7 @@
 <!-- TECH STACK -->
 <!-- ============================================================ -->
 
-<h2 align="center">🧠 I COMMAND</h2>
+<h2 align="center"> I COMMAND</h2>
 
 <p align="center"><b>~ Languages ~</b></p>
 <p align="center">
@@ -111,21 +111,21 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h3>🎵 Next-Gen Music Player</h3>
+      <h3> Next-Gen Music Player</h3>
       <p>Spotify but better. Built for speed, built for vibes.</p>
     </td>
     <td width="50%">
-      <h3>🤖 AI Discord Bot</h3>
+      <h3> AI Discord Bot</h3>
       <p>Skynet's friendly cousin. Smart, helpful, mildly sarcastic.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🌐 Portfolio V4</h3>
+      <h3> Portfolio V4</h3>
       <p>Actually good this time.</p>
     </td>
     <td width="50%">
-      <h3>🛠️ Dev Tools Suite</h3>
+      <h3> Dev Tools Suite</h3>
       <p>Making devs' lives easier, one script at a time.</p>
     </td>
   </tr>
@@ -135,16 +135,16 @@
 <!-- DIVIDER -->
 <!-- ============================================================ -->
 
-<h2 align="center">🔁 THE DEV LIFECYCLE</h2>
+<h2 align="center"> THE DEV LIFECYCLE</h2>
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryTextColor': '#00ff88', 'primaryBorderColor': '#00ff88', 'lineColor': '#ff00ff', 'secondaryColor': '#0d1117', 'tertiaryColor': '#0d1117'}}}%%
 flowchart LR
-    A[💡 Idea] --> B[⌨️ Code]
-    B --> C[🐛 Bug]
-    C --> D[🔍 Debug]
-    D --> E[✅ Success]
-    E --> F[☕ Coffee]
+    A[ Idea] --> B[⌨️ Code]
+    B --> C[ Bug]
+    C --> D[ Debug]
+    D --> E[ Success]
+    E --> F[ Coffee]
     F --> A
 ```
 
@@ -152,7 +152,7 @@ flowchart LR
 <!-- JOKE OF THE DAY -->
 <!-- ============================================================ -->
 
-<h2 align="center">😂 jotd </h2>
+<h2 align="center">🤭 jotd </h2>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&border=true" alt="Random Dev Joke"/>
 </p>
@@ -161,20 +161,20 @@ flowchart LR
 <!-- FUN FACTS TABLE -->
 <!-- ============================================================ -->
 
-<h2 align="center">🧬 DECRYPTED</h2>
+<h2 align="center"> DECRYPTED</h2>
 
 <div align="center">
 
 | 🔹 Stat | 🔹 Value |
 |---|---|
-| 🕒 Bugs created today | `∞` |
-| 🐞 Bugs fixed today | `0 - 1 (thanks deepseek)` |
-| ☕ Coffee consumed | `ion knw` |
-| 🌙 Favorite debugging hour | `3:00 AM` |
-| 🧠 Brain.exe status | `"it works on my machine"` |
-| 🎮 Side quest | `Yelling at the AI to "just fix it"` |
-| 🔥 Power move | `git push --force (sometimes)` |
-| 📚 Stack Overflow visits | `Don't ask` |
+|  Bugs created today | `∞` |
+|  Bugs fixed today | `0 - 1 (thanks deepseek)` |
+|  Coffee consumed | `nun` |
+|  Favorite debugging hour | `8:00 PM` |
+|  .exe status | `"it works on my machine"` |
+|  Side quest | `Yelling at the AI to "just fix it"` |
+|  Power move | `git push --force (sometimes)` |
+|  Stack Overflow visits | `Don't ask` |
 
 </div>
 
@@ -184,7 +184,7 @@ flowchart LR
 <!-- LEAVE A STAR -->
 <!-- ============================================================ -->
 
-<h2 align="center">⭐ LEAVE A STAR</h2>
+<h2 align="center"> LEAVE A STAR</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/StarGIF.gif" width="40%" alt="leave a star"/>

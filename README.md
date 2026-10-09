@@ -33,11 +33,11 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/grow.gif" width="100%">
 </p>
 
-<h3 align="center"> ACCESSING DEVELOPER MAINFRAME </h3>
+<h3 align="center">  </h3>
 
 <p align="center">
   <code>$ whoami</code><br/>
-  Vibe Coder &nbsp;|&nbsp;  AI Whisperer &nbsp;|&nbsp;  i use Ctrl+C Ctrl+V
+ i use Ctrl+C Ctrl+V
 </p>
 
 <!-- ============================================================ -->
@@ -63,13 +63,13 @@
 <!-- DIVIDER -->
 <!-- ============================================================ -->
 
-<p align="center">⠀⠀⠀⠀⠀⠀⠀<b>// ARSENAL LOADED //</b>⠀⠀⠀⠀⠀⠀⠀</p>
+<p align="center">⠀⠀⠀⠀⠀⠀⠀<b>// ik some stuff //</b>⠀⠀⠀⠀⠀⠀⠀</p>
 
 <!-- ============================================================ -->
 <!-- TECH STACK -->
 <!-- ============================================================ -->
 
-<h2 align="center"> I COMMAND</h2>
+<h2 align="center"> these are the skills i have</h2>
 
 <p align="center"><b>~ Languages ~</b></p>
 <p align="center">
@@ -91,9 +91,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ff00ff&labelColor=0d1117" alt="Git"/>
 </p>
 
+
+
+<!-- ============================================================ -->
+<!-- DIVIDER -->
+<!-- ============================================================ -->
+
+
+
 <!-- ============================================================ -->
 <!-- PROJECTS -->
 <!-- ============================================================ -->
+
+
+
 
 <div align="center">
 
@@ -109,75 +120,15 @@
 </div>
 
 <table align="center">
-  <tr>
     <td width="50%">
-      <h3> Next-Gen Music Player</h3>
-      <p>Spotify but better. Built for speed, built for vibes.</p>
+      <h3> nothinng yet </h3>
+      <p> im sorry, im the guy who makes stuff with ai. forgive me twin./p>
     </td>
-    <td width="50%">
-      <h3> AI Discord Bot</h3>
-      <p>Skynet's friendly cousin. Smart, helpful, mildly sarcastic.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3> Portfolio V4</h3>
-      <p>Actually good this time.</p>
-    </td>
-    <td width="50%">
-      <h3> Dev Tools Suite</h3>
-      <p>Making devs' lives easier, one script at a time.</p>
-    </td>
-  </tr>
 </table>
 
 <!-- ============================================================ -->
 <!-- DIVIDER -->
 <!-- ============================================================ -->
-
-<h2 align="center"> THE DEV LIFECYCLE</h2>
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryTextColor': '#00ff88', 'primaryBorderColor': '#00ff88', 'lineColor': '#ff00ff', 'secondaryColor': '#0d1117', 'tertiaryColor': '#0d1117'}}}%%
-flowchart LR
-    A[ Idea] --> B[⌨️ Code]
-    B --> C[ Bug]
-    C --> D[ Debug]
-    D --> E[ Success]
-    E --> F[ Coffee]
-    F --> A
-```
-
-<!-- ============================================================ -->
-<!-- JOKE OF THE DAY -->
-<!-- ============================================================ -->
-
-<h2 align="center">🤭 jotd </h2>
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&border=true" alt="Random Dev Joke"/>
-</p>
-
-<!-- ============================================================ -->
-<!-- FUN FACTS TABLE -->
-<!-- ============================================================ -->
-
-<h2 align="center"> DECRYPTED</h2>
-
-<div align="center">
-
-| 🔹 Stat | 🔹 Value |
-|---|---|
-|  Bugs created today | `∞` |
-|  Bugs fixed today | `0 - 1 (thanks deepseek)` |
-|  Coffee consumed | `nun` |
-|  Favorite debugging hour | `8:00 PM` |
-|  .exe status | `"it works on my machine"` |
-|  Side quest | `Yelling at the AI to "just fix it"` |
-|  Power move | `git push --force (sometimes)` |
-|  Stack Overflow visits | `Don't ask` |
-
-</div>
-
 
 
 <!-- ============================================================ -->
@@ -191,7 +142,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  If you vibe with my code, drop a ⭐ — it powers my neon servers.
+  leave a ⭐unc
 </p>
 
 <!-- ============================================================ -->
